@@ -21,4 +21,4 @@ Alternatively, you can [download this repository as a `.zip` file](https://githu
 
 ### Credits
 
-A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn) or some i some i stole from other people.
+A huge majority of the wallpapers here I got from the [r/unixporn Discord server](https://discord.gg/unixporn) or some i stole from other people.
